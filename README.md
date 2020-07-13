@@ -8,7 +8,7 @@ Tenho 27 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e feli
 
 * 🔭 Estou em busca da primeira oportunidade de trabalhar com Desenvolvimento Web;
 
-* ⚙ Atualmente tenho me dedicado aos estudos mais avançados de JavaScript;
+* ⚙ Atualmente tenho me dedicado aos estudos mais avançados de JavaScript e iniciando em PHP;
 
 * 🤔 Curiosidades: só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.
 
