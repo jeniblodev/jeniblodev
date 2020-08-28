@@ -4,11 +4,11 @@ Tenho 27 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e feli
 
 ![](https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif)
 
-* 🖥️ Tecnologias: HTML | CSS | JavaScript;
+* 🖥️ Tecnologias: HTML | CSS | Tailwind CSS | JavaScript;
 
-* 🔭 Estou em busca da primeira oportunidade de trabalhar com Desenvolvimento Web;
+* 🔭 FrontEnd Developer na [Eskive](https://www.eskive.com.br);
 
-* ⚙ Atualmente tenho me dedicado aos estudos mais avançados de JavaScript e iniciando em PHP;
+* ⚙ Atualmente tenho me dedicado aos estudos de Tailwind CSS, PHP e Laravel;
 
 * 🤔 Curiosidades: só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.
 
