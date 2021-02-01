@@ -1,6 +1,6 @@
 <p align="center">
  <img width="120px" src="https://www.imagemhost.com.br/images/2021/02/01/cat.png" align="center" alt="Mulher no computador com gato" />
- <h2 align="center">Jeniffer Bittencourt</h2>
+ <h1 align="center">Jeniffer Bittencourt</h1>
  <p align="center">
   <a href="mailto:lo.jbittencourt@gmail.com">
     <img src="gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
