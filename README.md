@@ -26,7 +26,7 @@
 
 ## Hello, Devs!!
 
-Tenho 28 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e felinos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 29 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e felinos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
@@ -34,20 +34,22 @@ Tenho 28 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e feli
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <img width="300px" align="right" src="https://i.ibb.co/L078zDC/1615093372747-removebg-preview.png">
-<img align="left" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
-<img align="left" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
-<img align="left" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
-<img align="left" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
-<img align="left" src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
-<img align="left" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
 
 
 </br>
+</br>
 <div display="inline-block">
  <p align="left">🤿 Faço parte do Scuba Team da <a href="https://www.alura.com.br/">Alura</a>;</p>
- <p align="left">📚 Além do estudo diário de FrontEnd, tenho estudado Java para desenvolver apps para Android;</p>
- <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/jeniblo_dev">Instagram</a>. Segue lá e vem bater um papo!</p>
+ <p align="left">📚 Tenho estudado Java e iniciei meus estudos para desenvolver apps para Android;</p>
+ <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/jeniblo_dev">Instagram</a> e no <a href="https://dev.to/jeniblo_dev">Blog</a>. Segue lá e vem bater um papo!</p>
  <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
 </div>
 
@@ -55,7 +57,7 @@ Tenho 28 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e feli
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/jeniblo_dev) ou pelo [Twitter](https://twitter.com/jeniblo_dev) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer também o meu [site](https://jeniblodev.github.io/-site_projetos/) com um pouco sobre a minha história e meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios também. =)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/jeniblo_dev) ou pelo [Twitter](https://twitter.com/jeniblo_dev) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
